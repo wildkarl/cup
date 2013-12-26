@@ -10,4 +10,9 @@ All the Add-Ins are written in **C#**, since that is what the program is written
 List of Add-Ins:
 
 - Walk on Walls Add-In
+
+This Add-In will be released.
+
+- Changing Loader's Look
+
 This Add-In will be released.
