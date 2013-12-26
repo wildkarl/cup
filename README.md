@@ -11,7 +11,7 @@ List of Add-Ins:
 
 - Walk on Walls Add-In
 
-This Add-In will be released.
+**Released**.
 
 - Changing Loader's Look
 
